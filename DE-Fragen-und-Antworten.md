@@ -31,7 +31,7 @@ Hier ein paar Beispiele aus der Vorschlagsliste:
 * Sprachen lernen über Google-Hangout oder Skype
 * Wie funktioniert tandem-exchange.com ?
 * Wie geht «Open Blended Language Learning»?
-* weitere siehe http://linguacamp.com/blog/tag:session-proposal
+* weitere siehe (link:http://linguacamp.com/blog/tag:session-vorschlag)
 
 ## 7 Was kostet die Teilnahme?
 * Dank unserer Sponsoren ist die Teilnahme kostenlos. 
