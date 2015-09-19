@@ -4,11 +4,11 @@
 
 ## 2 Wer kann teilnehmen?
 * Fremdsprachenlerner aller Länder und aller
-Altersstufen, Schüler (ab 14 Jahre), Studenten, Rentner, Berufsanfänger, Berufstätige und Arbeitssuchende, Freelancer, Gründer und Unternehmer, Lehrer, Dozenten, Trainer, Gründer und Kreative im Bereich Sprachen, Schul- und Kurs-Leiter, Autoren, Content-Entwickler, Illustratoren, Grafik-Designer, Fotografen, Video-Produzenten, Sprecher, Schauspieler, Über-
+Altersstufen, Schüler (ab 16 Jahre), Studenten, Absolventen, Freelancer, Gründer, Unternehmer, Lehrer, Dozenten, Trainer im Bereich Lernen und Sprachen, Schul- und Kurs-Leiter, Autoren, Content-Entwickler, Illustratoren, Grafik-Designer, Fotografen, Video-Produzenten, Sprecher, Schauspieler, Über-
 setzer, Dolmetscher, Musiker, Software-Entwickler, Sound-, Text- und Wort-Künstler, Journalisten und alle Interessierten
 
 ## 3 Was sind die Konferenzsprachen?
-* Französisch, Deutsch, Englisch
+* Deutsch, Englisch, Französisch
 * weitere Sprachen, je nach Teilnehmerzahl
 * Wir suchen noch freiwillige Dolmetscher und Übersetzer!
 
@@ -21,14 +21,13 @@ setzer, Dolmetscher, Musiker, Software-Entwickler, Sound-, Text- und Wort-Künst
 * weitere Themen der «Teilgeber»
 * 
 ## 5 Was ist das Programm?
-* Es gibt kein vorher festgelegtes Vortrags-Programm, nur einen klaren organisatorischen Rahmen
+* Es gibt kein vorher festgelegtes Programm, nur einen klaren organisatorischen Rahmen
 * nach einem schnellen und einfachen Verfahren wird jeweils am Vormittag der «Session-Plan» von allen Teilnehmern per Handzeichen abgestimmt
 * jeder Teilnehmer kann dabei eigene Sessions anbieten oder gar eine Session zu einem ihm wichtigen Thema anfragen
 
 ## 6 Welche Sessionvorschläge gibt es schon?
 Hier ein paar Beispiele aus der Vorschlagsliste:
 * Workshop: Das beste Vokabellernprogramm
-* Sprachen lernen beim Kuchenbacken
 * Sprachen lernen über Google-Hangout oder Skype
 * Wie funktioniert tandem-exchange.com ?
 * Wie geht «Open Blended Language Learning»?
@@ -38,33 +37,31 @@ Hier ein paar Beispiele aus der Vorschlagsliste:
 * Es gibt aber wie bei Barcamps üblich ein Prinzip des Gebens und Nehmens:
 
 ## 8 Was kann ich beitragen?
-* Als Teilnehmer bringe ich mich konstruktiv ein, zum Beispiel mit einer eigenen Session oder beim Empfang und der Einweisung anderer Teilnehmer
-* Ich erzähle anderen von der Veranstaltung vor, während und nach dem LinguaCamp weiter
+* Als Teilnehmer bringe ich mich konstruktiv ein, zum Beispiel mit einer eigenen Session oder beim Auf- und Abbau, beim Empfang und der Einweisung anderer Teilnehmer
+* Vor, während und nach der Veranstaltung teile ich anderen mit, was beim LinguaCamp geschieht
 * Ich teile und verbreite meine Eindrücke und Ergebnisse möglichst übers Internet, Stich-wort «Linguacamp Berlin» oder Hashtag 
-#lingcb13
-* Ich lobe die Sponsoren
+#lingcb15
+* Ich danke den Sponsoren
 
-## 9 Wer sind die Sponsoren?
-* das Deutsch-Französische Jugendwerk
-* die Agentur für Erwachsenen- und Weiterbildung Niedersachsen
-* die FU Berlin-Dahlem
+## 9 Wer sind die Sponsoren und Unterstützer?
+* das Selbstlernzentrum der FU Berlin
+* ELTABB, der Verband der Englisch-Trainer Berlin-Brandenburg
+* weitere
 Vielen Dank für die tatkräftige Unterstützung!
 
 ## 10 Wer sind die Veranstalter?
 Nach außen wird das LinguaCamp vertreten durch:
-* Christian Reuter, Sprachtrainer, Kurs-Designer, Qualilangues Paris
-* Dr. Esther Debus-Gregor, Edyssee, Redaktion - Beratung - Wissensorganisation
+* Sherri Williams, English-Trainerin
+* Christian Reuter, Sprachtrainer, Kurs-Designer, Mittler zwischen den Kulturen
 
 ## 11 Wo melde ich mich an?
-Auf einer der folgenden Webseiten:
-* http://linguacamp.eventbrite.de/
-* http://www.meetup.com/linguacamp-berlin
-* http://linguacamp.org
+* http://linguacamp2015.eventbrite.de/
+Merke: Für jeden Tag einzeln anmelden
 
 ## 12 Wann?
-* Samstag, den 21. Sept 2013 von 9:30-17 Uhr
-* Sonntag, den 22. Sept 2013 von 10-17 Uhr
-Am Samstagmorgen ist die große Vorstellungsrunde.
+* Samstag, den 3. Oktober 2015 von 10-17:30 Uhr
+* Sonntag, den 4. Oktober 2015 von 10-16 Uhr
+Merke: Am Samstagmorgen ist die große Vorstellungsrunde.
 
 ## 13 Wo?
 * FU Berlin Dahlem Seminarzentrum
@@ -78,12 +75,9 @@ Am Samstagmorgen ist die große Vorstellungsrunde.
 
 ## 15 Mehr Infos
 Auf Internet:
-* http://linguacamp.org
 * http://linguacamp.com
 * twitter: @linguacamps
-* http://scoop.it/linguacamp
-* http://vimeo.com/linguacamp
 * http://facebook.com/linguacamps
 
-Bei wichtigen Fragen direkt:
-* per E-Mail: chris@linguacamp.org
+Per E-Mail (nur bei wichtigen Fragen)
+* chris@linguacamp.org
