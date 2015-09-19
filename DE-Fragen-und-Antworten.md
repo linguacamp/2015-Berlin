@@ -19,7 +19,7 @@ setzer, Dolmetscher, Musiker, Software-Entwickler, Sound-, Text- und Wort-Künst
 * Open Blended Language Learning
 * Content-Entwicklung
 * weitere Themen der «Teilgeber»
-* 
+ 
 ## 5 Was ist das Programm?
 * Es gibt kein vorher festgelegtes Programm, nur einen klaren organisatorischen Rahmen
 * nach einem schnellen und einfachen Verfahren wird jeweils am Vormittag der «Session-Plan» von allen Teilnehmern per Handzeichen abgestimmt
@@ -31,6 +31,7 @@ Hier ein paar Beispiele aus der Vorschlagsliste:
 * Sprachen lernen über Google-Hangout oder Skype
 * Wie funktioniert tandem-exchange.com ?
 * Wie geht «Open Blended Language Learning»?
+* weitere siehe http://linguacamp.com/blog/tag:session-proposal
 
 ## 7 Was kostet die Teilnahme?
 * Dank unserer Sponsoren ist die Teilnahme kostenlos. 
