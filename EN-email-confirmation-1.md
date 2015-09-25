@@ -2,7 +2,7 @@ Email subject:
 Registration confirmation for LinguaCamp Berlin 2015
 
 
-Wegkomme to LinguaCamp!
+Welcome to LinguaCamp!
 We’re very happy you will be joining us at LinguaCamp Berlin 2015.  This email serves as the confirmation of your registration. There’s no need to print this email, just come to the registration table on the day of the event and we’ll have your name on our list.
 
 ## 1. When should I arrive?
