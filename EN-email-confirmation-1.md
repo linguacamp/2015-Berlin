@@ -9,6 +9,7 @@ We’re very happy you will be joining us at LinguaCamp Berlin 2015.  This email
 ## 1. When should I arrive?
 ### Saturday, October 3, 2015 
 - Arrival & Registration 10:00-10:30
+
 ### Sunday, October 4, 2015 
 - Arrival & Registration 10:00-10:30
 
@@ -41,4 +42,6 @@ When you mention Linguacamp in your personal blog or your posts on Facebook, Twi
 
 Looking forward to seeing you there! 
 Frohes LinguaCampen :: Happy LinguaCamping!
+
 The LinguaCamp Team
+Sherri Williams & Christian Reuter
